@@ -484,7 +484,7 @@
 			},
 			"SparkPoolName": {
 				"type": "string",
-				"defaultValue": " juraincspark"
+				"defaultValue": "juraincspark"
 			},
 			"DatasetSize": {
 				"type": "string",
