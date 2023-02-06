@@ -484,7 +484,7 @@
 			},
 			"ServerName": {
 				"type": "string",
-				"defaultValue": "juraincsynapsesql"
+				"defaultValue": "juraincsynapsews"
 			},
 			"SparkPoolName": {
 				"type": "string",
